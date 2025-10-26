@@ -1,0 +1,48 @@
+
+span h1,h2,p{
+    margin-left:50px;
+    margin-top: 10px;
+}
+span button{
+    margin-left: 50px;
+    background-color: rgb(0, 255, 255);
+    padding: 10px;
+    border-radius: 15%;
+    font-size: medium;
+
+}
+button{
+    margin-left: 50px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 15%;
+    font-size: medium;
+
+}
+body{
+    background-color: rgba(195, 2, 253, 0.966);
+    margin: 0%;
+   font-family: "Trirong", serif;
+
+}
+.s img{
+    height: 1000px; 
+}
+.con{
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+P{
+    font-size: medium;
+    color: aliceblue;
+}
+H2{
+    color: beige;
+}
+.logo{
+   background-color: black;
+   text-align: center;
+   grid-column:1/3;
+ 
+ }

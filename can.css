@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(93, 211, 247);
+    margin: 0%;
+    font-family:"Trirong", serif;
+    font-size: x-large;
+}
+
+.logo{
+   background-color: black;
+   text-align: center;
+    
+ }
+ .z{
+    background-color:red;
+    font-size: xx-large;
+    border-radius: 10%;
+}
+input{
+    width: 200px;
+    height:50px;
+    color:beige;
+    
+ }
+ h1{
+    color: beige;
+ }

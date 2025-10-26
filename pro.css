@@ -1,0 +1,17 @@
+div .y{
+    border-radius: 50%;
+}
+.logo{
+   background-color: black;
+   text-align: center;
+    
+ }
+ body{
+    background-color:rgb(93, 211, 247);
+    margin: 0%;
+    font-family:"Trirong", serif;
+    font-size: large;
+}
+h1{
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(93, 211, 247);
+    margin: 0%;
+    font-family:"Trirong", serif;
+}.s
+ {
+float: right;
+margin-right: 100px ;
+}
+ul,li{
+    display: inline;
+    padding: 50px;
+
+}
+nav{
+    background:rgb(250, 77, 77);
+    padding: 20px;
+}
+.logo{
+   background-color: black;
+   text-align: center;
+    
+ }
+ button{
+    background-color: yellow;
+    padding:10px; 
+    margin-left: 100px;
+    border-radius:20%;
+ }
+.a{
+    margin-left: 30px;
+ }
+ b{
+    background-color:rgb(255, 0, 140);
+ }
+ footer{
+    background-color: coral;
+    padding: 50px;
+    text-align: center;
+ }
+.margin{
+   margin-left: 50px;
+
+ }
+    
